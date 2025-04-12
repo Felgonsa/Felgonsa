@@ -17,10 +17,12 @@
   <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-                                                                                                                                       
-  
+  <img align="center" alt="Felipe-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+ 
+
   ![Snake animation](https://github.com/felgonsa/felgonsa/blob/output/github-contribution-grid-snake.svg)
+
 
 
   ### 📫 Contato
