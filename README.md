@@ -27,8 +27,8 @@ Desenvolvedor Fullstack e Entusiasta de Tecnologia com formação de aspirante a
 
   ### 📫 Contato
 
-lipesouzago4@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Portfólio](https://felgonsa.github.io/portfolio/)
+lipesouzago4@gmail.com|
+[LinkedIn](https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-souza-a6a394233/) | [Portfólio](https://felgonsa.github.io/portfolio/)
 
 
 </div>
