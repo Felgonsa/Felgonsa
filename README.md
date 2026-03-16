@@ -28,7 +28,7 @@ Desenvolvedor Fullstack, formado em Análise e Desenvolvimento de sistemas, aspi
   ### 📫 Contato
 
 lipesouzago4@gmail.com|
-[LinkedIn](https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-souza-a6a394233/) | [Portfólio](https://felgonsa.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-souza-a6a394233/) | [Portfólio](https://www.felgon.com.br/)
 
 
 </div>
