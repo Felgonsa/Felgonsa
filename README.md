@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe Gonçalves 👋
 
-Desenvolvedor Fullstack e Entusiasta de Tecnologia com formação de aspirante a oficial da reserva pelo Exército Brasileiro, combinando disciplina e liderança com criatividade técnica. Atualmente cursando Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações web modernas, abrangendo Front-end (React.js, JavaScript, HTML, CSS, UX/UI) e Back-end (Node.js com Express.js, PostgreSQL).
+Desenvolvedor Fullstack, formado em Análise e Desenvolvimento de sistemas, aspirante a oficial da reserva pelo Exército Brasileiro, combinando disciplina e liderança com criatividade técnica. , com experiência prática no desenvolvimento de aplicações web modernas, abrangendo Front-end (React.js, JavaScript, HTML, CSS, UX/UI) e Back-end (Node.js com Express.js, PostgreSQL).
 
  <a href="https://github.com/felgonsa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felgonsa&show_icons=true&theme=dark&include_all_commits=true&count_private=true""/>
